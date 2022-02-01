@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">A persistent learner and MERN Stack developer with proficiency in pixel-perfect design and implementing end-to-end functionality.A Curious Full Stack Web Developer trained in MERN stack and DSA.Passionate about building quality user-centric products using MERN stack. Committed to achieving excellence in her work. Excited about kickstarting a career in the software industry.</h3>
+<h5 align="center">A persistent learner and MERN Stack developer with proficiency in pixel-perfect design and implementing end-to-end functionality.A Curious Full Stack Web Developer trained in MERN stack and DSA.Passionate about building quality user-centric products using MERN stack. Committed to achieving excellence in her work. Excited about kickstarting a career in the software industry.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit9793&label=Profile%20views&color=0e75b6&style=flat" alt="amit9793" /> </p>
 
